@@ -3,7 +3,7 @@ Cubit development
 
 https://cubitcore.org
 
-Copyright (c) 2017-2018 Cubit developers
+Copyright (c) 2017-2020 Cubit Core developers
 
 What is Cubit?
 --------------
@@ -14,12 +14,15 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the Cubit Core network. Cubit Core is the name of the software
 which enables the use of the Cubit currency.
 
-Cubit ore diverted from mainstream forks. The reason for this is that Cubit wants
+Vision
+------
+
+Cubit core diverted from mainstream forks. The reason for this is that Cubit wants
 to be true to the original vision of "Satoshi Nakamoto." Nothing more than CPU
 power to mine Cubit coins. No single party is to "own" the Cubit Core  blockchain.
 
-For more information, as well as an immediately useable, binary version of
-the Cubit client software, see http://download.cubitcore.org
+For more information, as well as an immediately useable, binary version of the
+Cubit client and dedicated mining software, see http://download.cubitcore.org
 
 License
 -------
