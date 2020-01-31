@@ -17,7 +17,7 @@ which enables the use of the Cubit currency.
 Vision
 ------
 
-Cubit core diverted from mainstream forks. The reason for this is that Cubit wants
+Cubit Core diverted from mainstream forks. The reason for this is that Cubit wants
 to be true to the original vision of "Satoshi Nakamoto." Nothing more than CPU
 power to mine Cubit coins. No single party is to "own" the Cubit Core  blockchain.
 
